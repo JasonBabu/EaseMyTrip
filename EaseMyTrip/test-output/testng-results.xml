@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-08T16:25:44 EST" name="Suite" finished-at="2022-01-08T16:25:51 EST" duration-ms="6252">
+    <groups>
+    </groups>
+    <test started-at="2022-01-08T16:25:44 EST" name="Test" finished-at="2022-01-08T16:25:51 EST" duration-ms="6252">
+      <class name="EaseMyTrip.EaseMyTrip.EaseMyTripTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:EaseMyTrip.EaseMyTrip.EaseMyTripTest@17046283]" started-at="2022-01-08T16:25:44 EST" name="setUp" finished-at="2022-01-08T16:25:47 EST" duration-ms="3134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="fromTextBox()[pri:0, instance:EaseMyTrip.EaseMyTrip.EaseMyTripTest@17046283]" started-at="2022-01-08T16:25:47 EST" name="fromTextBox" finished-at="2022-01-08T16:25:49 EST" duration-ms="1718" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fromTextBox -->
+        <test-method signature="toTextBox()[pri:0, instance:EaseMyTrip.EaseMyTrip.EaseMyTripTest@17046283]" started-at="2022-01-08T16:25:49 EST" name="toTextBox" finished-at="2022-01-08T16:25:50 EST" duration-ms="1147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toTextBox -->
+        <test-method signature="verifyPageTitle()[pri:0, instance:EaseMyTrip.EaseMyTrip.EaseMyTripTest@17046283]" started-at="2022-01-08T16:25:50 EST" name="verifyPageTitle" finished-at="2022-01-08T16:25:50 EST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageTitle -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:EaseMyTrip.EaseMyTrip.EaseMyTripTest@17046283]" started-at="2022-01-08T16:25:50 EST" name="afterTest" finished-at="2022-01-08T16:25:51 EST" duration-ms="209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- EaseMyTrip.EaseMyTrip.EaseMyTripTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
